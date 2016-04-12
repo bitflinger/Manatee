@@ -1,2 +1,2 @@
-﻿showMessage = true;
-comment('hello');
+﻿
+hello();
